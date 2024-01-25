@@ -1,0 +1,3 @@
+Hello Wolrd!
+My name is Ardalan
+And i'm learning bash scripting
