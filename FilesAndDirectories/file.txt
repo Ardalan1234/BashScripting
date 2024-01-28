@@ -1,0 +1,3 @@
+Hello
+my name is Ardalan
+and I'm trying to read the content of this file
